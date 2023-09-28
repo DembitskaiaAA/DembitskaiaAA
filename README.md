@@ -39,6 +39,12 @@ I am a Java back-end developer
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DembitskaiaAA)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DembitskaiaAA&layout=compact)
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-explore-with-me)](https://github.com/DembitskaiaAA/java-explore-with-me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-shareit)](https://github.com/DembitskaiaAA/java-shareit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-kanban)](https://github.com/DembitskaiaAA/java-kanban)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-filmorate)](https://github.com/DembitskaiaAA/java-filmorate-1/tree/develop)
 
 
 
