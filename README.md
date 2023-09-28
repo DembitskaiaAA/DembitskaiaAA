@@ -41,10 +41,7 @@ I am a Java back-end developer
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-explore-with-me)](https://github.com/DembitskaiaAA/java-explore-with-me)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-kanban)](https://github.com/DembitskaiaAA/java-kanban)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DembitskaiaAA&repo=java-filmorate)](https://github.com/DembitskaiaAA/java-filmorate-1/tree/develop)
 
 
 
