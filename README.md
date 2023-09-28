@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  I'm Nastya <br>
+  👋 I'm Nastya <br>
   Welcome to my github page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
