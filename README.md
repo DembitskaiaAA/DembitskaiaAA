@@ -36,7 +36,6 @@ I am a Java back-end developer
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DembitskaiaAA)](https://git.io/streak-stats) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DembitskaiaAA&layout=compact)
 
 
